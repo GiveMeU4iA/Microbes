@@ -1,0 +1,43 @@
+h1{
+    font-size: 3em;
+}
+
+body{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    width: 100%;
+    display: block;
+    background-color:rgb(56, 56, 56);
+}
+
+body *{
+    transition: ease 0.2s all;
+}
+
+#q{
+    margin-top: 10em;
+    display:block;
+}
+
+#textbox{
+    margin-top: 2em;
+}
+
+input{
+    border:solid white 2px;
+    border-radius: 6px;
+    font-size: 1.2em;
+}
+
+input:focus{
+    border-width: 3px;
+    background-color:rgb(76, 76, 76)
+}
+
+strong{
+    font-size: 2em;
+}
+
+#line{
+    
+}
