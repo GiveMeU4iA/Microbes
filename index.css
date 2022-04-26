@@ -49,6 +49,11 @@ strong{
     margin-top: 2.4em;
 }
 
+.img1{
+    max-width: 50%;
+}
+
 img{
     max-width: 95%;
 }
+
